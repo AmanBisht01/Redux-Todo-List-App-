@@ -50,7 +50,7 @@ function NavbarComp(props) {
       <>
         <Navbar color="dark" dark expand="sm" className="mb-5">
           <Container>
-            <NavbarBrand href="/">Todo List</NavbarBrand>
+            <NavbarBrand href="/">Shoping-List</NavbarBrand>
             <NavbarToggler onClick={() => setShow(!show)} />
             <Collapse isOpen={show} navbar>
               <Nav className="ml-auto" navbar>
